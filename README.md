@@ -1,5 +1,5 @@
 Algoritmo Restaurante
-	Escribir "sistema de pedidos del restaurant **The world of flvors** "
+	Escribir "sistema de pedidos del restaurant **The world of flavors** "
 	
 	Arroz=50
 	Habichuelas=60
